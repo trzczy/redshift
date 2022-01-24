@@ -1,2 +1,2 @@
-# redshift.conf
+# redshift
 Redshift configuration
